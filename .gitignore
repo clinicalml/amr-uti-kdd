@@ -1,0 +1,4 @@
+*.pyc
+processed_data
+experiments/experiment_results
+*.ipynb_checkpoints*
