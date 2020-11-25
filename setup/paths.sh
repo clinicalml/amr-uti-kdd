@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Change this line to reflect where you have stored the unzipped data release files
-export DATA_PATH="/data/mgb_abx_data_release/kdd-replication-beta/data_folder"
+export DATA_PATH="<PATH TO DATA>"
 
 # Change this line to reflect the location of the repository 
-export REPO_PATH="/data/mgb_abx_data_release/kdd-replication-beta/amr-uti-kdd-alpha"
+export REPO_PATH="<REPOSITORY PATH>"
 
 # DO NOT change these lines; These are assumed elsewhere. 
 # Note that while experiment results are stored in the same file tree as the repo, gitignore is set to ignore these results 
